@@ -25,15 +25,3 @@ body.div.login-div{
 .login-div input[name="password"]{
     border: solid 1px red;
 }
-input[class="*blue"]{
-    border: solid 1px yellow;
-}
-
-.login-div button:hover{
-    box-shadow: 2px 2px 3px #c0c0c0
-}
-
-.login-div input:focus{
-    box-shadow 2px 2px 3px #c0c0c0;
-    border:none;
-}
